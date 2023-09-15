@@ -11,3 +11,6 @@ IAST tools are typically geared to analyze Web Applications and Web APIs, but th
 We are aware of only one IAST Tool that is free after registration at this time:
 
  - Contrast Community Edition (CE) - Fully featured version for 1 app and up to 5 users (some Enterprise features disabled). Contrast CE supports Java and .NET only.
+
+Tools:
+[CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer)
